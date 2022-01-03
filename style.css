@@ -1,0 +1,43 @@
+nav{
+    float: top;
+    padding: 0%;
+    margin-bottom: 20%;
+}
+body{
+
+    padding-left: 190px;
+    padding-bottom: 30px;
+    padding-right: 190px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(assets/bckgrnd.png);
+}
+aside{
+    margin-right: 20px;
+    margin-left:77%;
+    margin-bottom: -55px;
+    
+}
+img.special-image{
+    border-radius: 50%;
+}
+
+section{
+    background: rgba(122, 122, 122, 0.459);
+    padding: 20px 150px;
+}
+article{
+margin-left: 20px;
+margin-bottom: 30px;
+
+}
+img{ margin-left: 20px;
+margin-right: 20px;
+border-radius: 15%;
+}
+h2{color: white;}
+h7{
+    color: white;
+}
+hr{
+    color: white;
+}
