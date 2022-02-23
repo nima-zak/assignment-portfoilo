@@ -17,8 +17,9 @@ aside{
     margin-bottom: -55px;
     
 }
-img.special-image{
+.special-image{
     border-radius: 50%;
+    border-style: double;
 }
 
 section{
@@ -40,4 +41,10 @@ h7{
 }
 hr{
     color: white;
+}
+@media only screen and (min-width: 600px){
+    section{
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(3 ,1fr);
+    }
 }
